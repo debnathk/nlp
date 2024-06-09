@@ -1,20 +1,18 @@
 +----------+----------------+
 |  Section |      Date      |
 +----------+----------------+
-| Section 3 | 02 June 2024  |
-| Section 4 | 09 June 2024  |
-| Section 5 | 16 June 2024  |
-| Section 6 | 23 June 2024  |
-| Section 7 | 30 June 2024  |
-| Section 8 | 07 July 2024  |
-| Section 9 | 14 July 2024  |
-| Section 10 | 21 July 2024 |
-| Section 11 | 28 July 2024 |
-| Section 12 | 04 August 2024 |
-| Section 13 | 11 August 2024 |
-| Section 14 | 18 August 2024 |
-| Section 15 | 25 August 2024 |
-| Section 16 | 01 September 2024 |
-| Section 17 | 08 September 2024 |
-| Section 18 | 15 September 2024 |
+| Section 5 | 09 June 2024  |
+| Section 6 | 16 June 2024  |
+| Section 7 | 23 June 2024  |
+| Section 8 | 30 June 2024  |
+| Section 9 | 7 July 2024  |
+| Section 10 | 14 July 2024 |
+| Section 11 | 21 July 2024 |
+| Section 12 | 28 July 2024 |
+| Section 13 | 4 August 2024 |
+| Section 14 | 11 August 2024 |
+| Section 15 | 18 August 2024 |
+| Section 16 | 25 August 2024 |
+| Section 17 | 01 September 2024 |
+| Section 18 | 08 September 2024 |
 +----------+----------------+
