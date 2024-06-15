@@ -1,7 +1,6 @@
 +----------+----------------+
 |  Section |      Date      |
 +----------+----------------+
-| Section 5 | 09 June 2024  |
 | Section 6 | 16 June 2024  |
 | Section 7 | 23 June 2024  |
 | Section 8 | 30 June 2024  |
